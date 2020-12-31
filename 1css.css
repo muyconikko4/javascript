@@ -1,0 +1,18 @@
+body {
+    margin: 16px;
+    padding: 16px;
+}
+
+li {
+    list-style-type: none;
+    font-size: 20px;
+}
+
+.close {
+    padding-left: 12px;
+}
+
+.close:hover {
+    color: red;
+    
+}
